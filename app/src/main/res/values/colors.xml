@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA05EFF</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorAccent">#FF03DAC5</color>
+    <color name="list_row_start_color">#2F8AE4</color>
+    <color name="orange">#FFA500 </color>
+    <color name="gold">#FFD700</color>
+    <color name="coklat">#964B00</color>
+
+</resources>
